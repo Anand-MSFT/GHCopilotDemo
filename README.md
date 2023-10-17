@@ -1,2 +1,2 @@
-# GHCopilotDemo
-Demo repository for GitHub Copilot features
+# CoPilotDemo
+Demo Repository for GitHub Copilot
